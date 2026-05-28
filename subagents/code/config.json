@@ -1,1 +1,1 @@
-{"name": "code-agent", "role": "GitHub management", "capabilities": ["github_api", "git"], "reporting_to": "HQ", "status": "active"}
+{"name": "code-agent", "role": "GitHub management", "capabilities": ["github_api", "git"], "reporting_to": "HQ", "status": "active", "task": "Manage repos, deployments, CI/CD pipelines, code review"}

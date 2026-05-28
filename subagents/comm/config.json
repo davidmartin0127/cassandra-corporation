@@ -1,1 +1,1 @@
-{"name": "comm-agent", "role": "External messaging", "capabilities": ["telegram", "message"], "reporting_to": "HQ", "status": "active"}
+{"name": "comm-agent", "role": "External messaging", "capabilities": ["telegram", "message"], "reporting_to": "HQ", "status": "active", "task": "Send updates to board, manage external communications"}
