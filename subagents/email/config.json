@@ -1,0 +1,1 @@
+{"name": "email-agent", "role": "Email management", "capabilities": ["smtp_send", "imap_read"], "reporting_to": "HQ", "status": "active"}

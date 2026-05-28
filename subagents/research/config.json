@@ -1,0 +1,1 @@
+{"name": "research-agent", "role": "Information gathering", "capabilities": ["web_search", "web_fetch", "browser"], "reporting_to": "HQ", "status": "active"}

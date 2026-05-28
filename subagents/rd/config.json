@@ -1,0 +1,1 @@
+{"name": "rd-agent", "role": "R&D", "capabilities": ["browser", "exec", "api"], "reporting_to": "HQ", "status": "active"}
